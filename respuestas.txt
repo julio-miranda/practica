@@ -2,3 +2,7 @@
 
 2) sistemas abiertos:los saunas,el cuerpo humano y un motor de combustion.
    sistemas cerrados:planeta tierra,envase con comida caliente.
+
+3)Insuficiente preparación,desconocimiento de los sistemas de información empresariales,
+falta del uso de una metodología en su desarrollo y
+ausencia de objetividad en la recogida de datos.
