@@ -8,3 +8,5 @@ falta del uso de una metodología en su desarrollo y
 ausencia de objetividad en la recogida de datos.
 
 4)sistemas y procedimientos
+
+5)mecanismos de control
